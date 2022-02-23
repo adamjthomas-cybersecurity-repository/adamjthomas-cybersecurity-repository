@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Thomas
-- 👀 This is a complete repository for my completed work in Cybersecurity
-- 🌱 Each week there is one homework assignment for which I express my knowledge in various Cybersecurity topics
+- This is a complete repository for my completed work in Cybersecurity
+- Each week there is one homework assignment for which I express my knowledge in various Cybersecurity topics
 - 📫 Feel free to reach out to me @adamjt326@gmail.com
 
 <!---
