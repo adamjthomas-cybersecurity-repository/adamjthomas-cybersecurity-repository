@@ -50,6 +50,7 @@ Answer the following questions:
 Now that you have a goal in mind, who needs to be involved?  
 
 - Indicate at least five employees or departments that need to be involved. For each person or department, indicate in 2-3 sentences what their role and responsibilities will be. 
+
     - Department #1: Information Security
 
 Information Security will have the role of presenting and educating all three scenarios with information to the employees. They are the front line of online security and will help maintain a high level of security. They will also be in touch with incident response to respond to every cyber attack.
