@@ -53,15 +53,19 @@ Now that you have a goal in mind, who needs to be involved?
     - Department #1: Information Security
 
 Information Security will have the role of presenting and educating all three scenarios with information to the employees. They are the front line of online security and will help maintain a high level of security. They will also be in touch with incident response to respond to every cyber attack.
+
     - Department #2: Human Resources
 
 Human Resources will have the role of training employees with basic security enhancements. During their first week of work, the new employees will be educated on what systems they need to download to their computers. They will also train all current employees annually with new techniques the company has required.
+
     - Department #3: Information Technology
 
 Information Technology will have the role of assisting employees with technological issues. They will have access to every employee's device and can mirror their screens to ensure that issues are resolved. Working one-on-one with the employee will show employees how to fix simple errors in the future.
+
     - Department #4: C-Level Officers
 
 C-Level Officers that are going to be involved will be the CEO, CISO, and CIO. The first point of contact for security breaches will be the Chief Information Officer (CIO). They will then relay all security concerns to the CISO and CEO of the company to let them know what caused the breach and how it was handled.
+
     - Department #5: Physical Security
 
 Physical Security will have an in person role rather than an online presence. They will be physically garding the building to ensure no attackers or tailgators are entering the building while employees can work from home. This is important to the company because physical security needs to handle incidents as soon as possible.
